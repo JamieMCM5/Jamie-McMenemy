@@ -1,8 +1,7 @@
 # About Me:
 Hey, I'm Jamie 👋<br>
-Full-stack developer building reliable products across frontend and backend.<br>
-Currently focused on React, TypeScript, and scalable backend systems.<br>
-I enjoy learning fast, shipping useful features, and improving developer workflows.
+As a software developer studying Computer Science & Software Engineering, I love creating useful and scalable software utilising a broad range of tools.
+Solving problems has been my thing from a young age, and being able to level up my problem solving skills is my favourite part of building software.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-mcmenemy)
