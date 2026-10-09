@@ -1,14 +1,14 @@
-# 💫 About Me:
+# About Me:
 Hey, I'm Jamie 👋<br>
 Full-stack developer building reliable products across frontend and backend.<br>
 Currently focused on React, TypeScript, and scalable backend systems.<br>
 I enjoy learning fast, shipping useful features, and improving developer workflows.
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-mcmenemy)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcmenemyjamie@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
