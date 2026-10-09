@@ -5,7 +5,8 @@ Currently focused on React, TypeScript, and scalable backend systems.<br>
 I enjoy learning fast, shipping useful features, and improving developer workflows.
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/JamieMCM5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-mcmenemy)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcmenemyjamie@gmail.com)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,4 +28,4 @@ I enjoy learning fast, shipping useful features, and improving developer workflo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieMCM5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
